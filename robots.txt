@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://good-smell-seven.vercel.app/sitemap.xml
